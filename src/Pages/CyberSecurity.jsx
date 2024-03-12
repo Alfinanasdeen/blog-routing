@@ -64,7 +64,7 @@ const CyberSecurity = () => {
       >
         <div style={cardStyle}>
           <img
-            src="https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
+            src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
             style={cardImgStyle}
             alt="CyberSecurity"
           />

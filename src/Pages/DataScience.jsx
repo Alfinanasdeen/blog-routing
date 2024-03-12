@@ -64,7 +64,7 @@ const DataScience = () => {
       >
         <div style={cardStyle}>
           <img
-            src="https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg"
+            src="https://kotapoint.in/wp-content/uploads/2023/09/ds-3.gif"
             style={cardImgStyle}
             alt="DataScience"
           />

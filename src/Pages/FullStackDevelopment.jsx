@@ -61,7 +61,7 @@ const FullStackDevelopment = () => {
       <Link to="/full-stack-development/project" style={{ textDecoration: 'none', color: 'inherit' }}>
         <div style={cardStyle}>
           <img 
-            src="https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg" 
+            src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" 
             style={cardImgStyle} 
             alt="Full Stack Development" 
           />

@@ -49,7 +49,7 @@ const CyberSecurityProject = () => {
             </h4>
             <br />
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif"
+              src="https://techcrunch.com/wp-content/uploads/2019/09/password.gif?w=730&crop=1"
               alt="Placeholder"
               style={{
                 height: "400px",

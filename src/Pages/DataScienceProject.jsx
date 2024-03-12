@@ -46,7 +46,7 @@ const DataScienceProject = () => {
             <h4 style={{ marginBottom: "10px", fontSize: "18px", color: "#444" }}>1. Data Visualization</h4>
             <br />
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/01/chart-analysis-1200x800.jpg"
+              src="https://miro.medium.com/v2/resize:fit:1400/0*9csOzmo4jYQvtBXu.gif"
               alt="Placeholder"
               style={{
                 height: "400px",

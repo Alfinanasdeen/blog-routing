@@ -48,7 +48,7 @@ const CareerProject = () => {
             </h4>
             <br />
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/06/pexels-lukas-669612.jpg"
+              src="https://www.axians.com/app/uploads/sites/11/2020/11/DataAnalyticsNew_06-01-scaled-e1606210128395.jpg"
               alt="Placeholder"
               style={{
                 height: "400px",
@@ -76,7 +76,7 @@ const CareerProject = () => {
             </h4>
             <br />
             <img
-              src="https://www.guvi.in/blog/wp-content/uploads/2023/06/pexels-rdne-stock-project-7564196.jpg"
+              src="https://blog.sagipl.com/wp-content/uploads/2022/08/consumer.gif"
               alt="Placeholder"
               style={{
                 height: "400px",

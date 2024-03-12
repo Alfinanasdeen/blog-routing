@@ -64,7 +64,7 @@ const CareerAs = () => {
       >
         <div style={cardStyle}>
           <img
-            src="https://www.guvi.in/blog/wp-content/uploads/2022/10/31958-2048x878.jpg"
+            src="https://i.gifer.com/74pZ.gif"
             style={cardImgStyle}
             alt="CareerAs"
           />

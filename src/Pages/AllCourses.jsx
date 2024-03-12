@@ -87,25 +87,25 @@ const AllCourses = () => {
   return (
     <div style={{ display: "flex", maxWidth: "1200px", margin: "0 auto" }}>
       <Courses
-        imgSrc="https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg"
+        imgSrc="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"
         title="Full Stack Development"
         description="Best Full Stack Development Projects in 2024"
         link="/full-stack-development/project"
       />
       <Courses
-        imgSrc="https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg"
+        imgSrc="https://kotapoint.in/wp-content/uploads/2023/09/ds-3.gif"
         title="Data Science"
         description="How to become a Data Scientist after Mechanical Engineering?"
         link="/data-science/project"
       />
       <Courses
-        imgSrc="https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
+        imgSrc="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif"
         title="Cyber Security"
         description="What is Cybersecurity? Importance and its uses & challenges in 2024!"
         link="/cyber-security/project"
       />
       <Courses
-        imgSrc="https://www.guvi.in/blog/wp-content/uploads/2022/10/31958-2048x878.jpg"
+        imgSrc="https://i.gifer.com/74pZ.gif"
         title="Career"
         description="6 Reasons Business Analytics Makes Digital Marketing Powerful"
         link="/career-as/project"
